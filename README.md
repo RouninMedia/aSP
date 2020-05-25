@@ -1,2 +1,2 @@
-# asp
-An asp is an Ashiva Single-file Progressive-web-app
+# aSP
+An aSP is an _ashiva **Single-file Progressive-web-app**_.
