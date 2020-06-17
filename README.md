@@ -40,5 +40,5 @@ If we take a PWA web page with a single image and no music or sound effects, thi
  6. Web Manifest
  7. Service Worker
  
- An **aSP** reduces this to **one file**.
+ An **aSP** reduces this set of seven files (or more) to **one file**.
  
