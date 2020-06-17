@@ -30,7 +30,7 @@ and sometimes:
 
 _____
 
-If we take a PWA web page with a single image and no music or sound effects, this means we are looking at 7 files:
+If we take a PWA web page with a single image and no music or sound effects, this means we are looking at **7 files**:
 
  1. HTML Document
  2. Image
