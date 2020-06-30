@@ -9,7 +9,11 @@ No, it isn't. Even if you have a single HTML file, you're probably going to end 
 
 ## Eh?! _Almost_ eight files? (_Do you mean seven files?_) How so?
 
-Ahem. Because. Usually even a very simple web page will have a number of file dependencies.
+Ahem. Because. Usually even a very simple web page will have a number of **_file dependencies_**.
+
+So much so, you can easily get to _7 files_ without trying.
+
+Keep count as we go through the following list...:
 
 Most HTML documents will be accompanied by:
 
