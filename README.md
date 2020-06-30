@@ -13,7 +13,7 @@ Ahem. Because. Usually even a very simple web page will have a number of **_file
 
 So much so, you can easily get to _7 files_ without trying.
 
-Keep count as we go through the following list...:
+Keep _**count**_ as we go through the following list...:
 
 Most HTML documents will be accompanied by:
 
@@ -50,5 +50,5 @@ _**This means**, if we take a PWA web page with a single image and no music or s
  6. Web Manifest
  7. Service Worker
  
- An **aSP** reduces this set of seven files (or more) to **one file**.
+ An **aSP** reduces this set of _**seven files**_ (or more) to **one file**.
  
