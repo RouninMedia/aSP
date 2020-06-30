@@ -1,9 +1,9 @@
 # aSP
-An **aSP** is an _ashiva **Single-File** Progressive-web-app_.
+An **aSP** is an _ashiva **Single-File** Progressive Web App_.
 
-It's a _big deal_, because it consists of a _**single file**_.
+It's a _big deal_, because the _PWA_ consists of a _**single file**_.
 
-## Ummm... isn't it pretty straightforward to make a _Progressive Web App (PWA)_ from a single file, anyway?
+## Ummm... isn't it pretty straightforward to make a _PWA_ from a single file, anyway?
 
 No, it isn't. Even if you have a single HTML file, you're probably going to end up with almost twice as many files as the number of fingers you have on one hand.
 
