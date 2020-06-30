@@ -25,11 +25,11 @@ Then, most HTML documents will be accompanied by:
  - an associated JS Scriptsheet, containing the scripts (`.js`)
  - a `favicon`
 
-Usually an HTML document will refer to:
+Additionally, an HTML document will usually refer to:
 
  - images (`.jpg`, `.gif`, `.png`, `.webp`)
 
-Additionally, it may refer to:
+_Additionally_, the HTML document may also refer to:
 
  - videos (`.mp4`, `avi`)
  
