@@ -54,5 +54,5 @@ _**This means**, if we take a PWA web page with a single image and no music or s
  6. Web Manifest
  7. Service Worker
  
- An **aSP** reduces this set of _**seven files**_ (or more) to **one file**.
+ An **aSP** uses a combination of standard techniques and it really does reduce this set of _**seven files**_ (or more) to **one single file**.
  
