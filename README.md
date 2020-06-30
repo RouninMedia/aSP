@@ -15,7 +15,11 @@ So much so, you can easily get to _7 files_ without trying. Still not convinced?
 
 _**Keep count**_ as we go through the following list...:
 
-Most HTML documents will be accompanied by:
+Start with:
+
+ - an HTML document (`.html`)
+
+Then, most HTML documents will be accompanied by:
 
  - an associated CSS Stylesheet, containing the styles (`.css`)
  - an associated JS Scriptsheet, containing the scripts (`.js`)
