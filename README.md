@@ -15,13 +15,13 @@ Usually an HTML document will refer to:
 
  - images (`.jpg`, `.gif`, `.png`, `.webp`)
 
-and:
+Additionally, it may refer to:
 
  - videos (`.mp4`, `avi`)
  
-and sometimes:
+Sometimes, it may even refer to:
 
- - music or sound effects (`.mp3`)
+ - audio files, music or sound effects (`.mp3`)
  
  Finally, if the HTML document is a _Progressive Web App_ (PWA), it will also be accompanied by:
 
@@ -30,7 +30,7 @@ and sometimes:
 
 _____
 
-If we take a PWA web page with a single image and no music or sound effects, this means we are looking at **7 files**:
+**This means**, if we take a PWA web page with a single image and no music or sound effects, **we are looking at no fewer than _7 separate files_**:
 
  1. HTML Document
  2. Image
