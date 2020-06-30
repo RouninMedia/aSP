@@ -1,5 +1,5 @@
 # aSP
-An **aSP** is an _ashiva Single-file Progressive-web-app_.
+An **aSP** is an _ashiva **Single-File** Progressive-web-app_.
 
 _____
 
