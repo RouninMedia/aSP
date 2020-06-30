@@ -11,7 +11,7 @@ No, it isn't. Even if you have a single HTML file, you're probably going to end 
 
 Ahem. Because. Usually even a very simple web page will have a number of **_file dependencies_**.
 
-So much so, you can easily get to _7 files_ without trying. Still not convinced?
+So much so, you can easily get to _**seven files**_ without trying. Still not convinced?
 
 _**Keep count**_ as we go through the following list...:
 
