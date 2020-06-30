@@ -44,7 +44,7 @@ Sometimes, it may even refer to:
 
 _____
 
-_**This means**, if we take a PWA web page with a single image and no music or sound effects, **we are looking at no fewer than 7 separate files**_:
+_**This means**, if we take a PWA web page with a single image and no music or sound effects, **we're looking at no fewer than seven separate files**_:
 
  1. HTML Document
  2. Image
