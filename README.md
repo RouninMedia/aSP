@@ -1,7 +1,7 @@
 # aSP
 An **aSP** is an _ashiva **Single-File** Progressive Web App_.
 
-It's a _big deal_, because the _PWA_ consists of a _**single file**_.
+It's a _big deal_, because this carefully built _PWA_ consists of a _**single file**_.
 
 ## Ummm... isn't it pretty straightforward to make a _PWA_ from a single file, anyway?
 
@@ -46,7 +46,7 @@ Sometimes, it may even refer to:
 
 _____
 
-_**This means**, if we take a PWA web page with a single image and no music or sound effects, **we're looking at no fewer than seven separate files**_:
+_**This means**, if we take a PWA with a single image and no music or sound effects, **we're still looking at no fewer than seven separate files**_:
 
  1. HTML Document
  2. Image
