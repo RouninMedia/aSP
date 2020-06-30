@@ -5,7 +5,9 @@ It's a _big deal_, because the _PWA_ consists of a _**single file**_.
 
 ## Ummm... isn't it pretty straightforward to make a _PWA_ from a single file, anyway?
 
-No, it isn't. Even if you have a single HTML file, you're probably going to end up with almost twice as many files as the number of fingers you have on one hand.
+No, it isn't.
+
+Even if you have a single HTML file, you're probably going to end up with almost twice as many files as the fingers you have on one hand.
 
 ## Eh?! _Almost_ eight files? (_Do you mean seven files?_) How so?
 
