@@ -1,9 +1,15 @@
 # aSP
 An **aSP** is an _ashiva **Single-File** Progressive-web-app_.
 
-_____
+It's a _big deal_, because it consists of a _**single file**_.
 
-Usually even a very simple web page will have a number of file dependencies.
+## Ummm... isn't it pretty straightforward to make a _Progressive Web App (PWA)_ from a single file, anyway?
+
+No, it isn't. Even if you have a single HTML file, you're probably going to end up with almost twice as many files as the number of fingers you have on one hand.
+
+## Eh?! _Almost_ eight files? (_Do you mean seven files?_) How so?
+
+Ahem. Because. Usually even a very simple web page will have a number of file dependencies.
 
 Most HTML documents will be accompanied by:
 
