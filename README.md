@@ -46,7 +46,7 @@ Sometimes, it may even refer to:
 
 _____
 
-_**This means**, if we take a PWA with a single image and no music or sound effects, **we're still looking at no fewer than seven separate files**_:
+_**This means**, if we take a standard PWA with a single image (no sound or video), **we're still looking at no fewer than seven separate files**_:
 
  1. HTML Document
  2. Image
@@ -60,7 +60,8 @@ _**This means**, if we take a PWA with a single image and no music or sound effe
  
   - data URIs
   - SVG Favicons
-  - the `createObjectURL()` method etc.
+  - JavaScript Blob Objects
+  - the `createObjectURL()` method
   
  and it really does reduce this set of _**seven files**_ (or more) to **one single file**.
  
