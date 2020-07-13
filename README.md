@@ -56,5 +56,5 @@ _**This means**, if we take a PWA with a single image and no music or sound effe
  6. Web Manifest
  7. Service Worker
  
- An **aSP** uses a combination of established web techniques (like data URIs, SVG Favicons etc.) and it really does reduce this set of _**seven files**_ (or more) to **one single file**.
+ An **aSP** uses a combination of established web techniques (like data URIs, SVG Favicons, the `createObjectURL()` method etc.) and it really does reduce this set of _**seven files**_ (or more) to **one single file**.
  
