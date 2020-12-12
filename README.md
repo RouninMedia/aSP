@@ -58,7 +58,7 @@ _**This means**, if we take a standard PWA with a single image (but no sound or 
  
  An **aSP** uses a combination of established web techniques like:
  
-  - data URIs
+  - data URLs
   - SVG Favicons
   - JavaScript Blob Objects
   - the `createObjectURL()` method
