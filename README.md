@@ -65,3 +65,9 @@ _**This means**, if we take a standard PWA with a single image (but no sound or 
   
  and it really does reduce this set of _**seven files**_ (or more) to **one single file**.
  
+______
+
+## Reference:
+
+ - **Inline WebManifest:** *https://stackoverflow.com/questions/46221528/inline-the-web-app-manifest*
+ 
