@@ -67,7 +67,14 @@ _**This means**, if we take a standard PWA with a single image (but no sound or 
  
 ______
 
-## Reference:
+## References:
 
- - **Inline WebManifest:** *https://stackoverflow.com/questions/46221528/inline-the-web-app-manifest*
+### Inline WebManifest:
+
+ - *https://stackoverflow.com/questions/46221528/inline-the-web-app-manifest*
+
+### Inline Service Worker:
+
+ - *https://stackoverflow.com/questions/38085240/create-worker-from-data-uri*
+ - 
  
