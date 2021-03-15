@@ -76,5 +76,4 @@ ______
 ### Inline Service Worker:
 
  - *https://stackoverflow.com/questions/38085240/create-worker-from-data-uri*
- - 
  
