@@ -1,5 +1,5 @@
 # aSP
-An **aSP** is an _**a**shiva **S**ingle-File **P**rogressive Web App_.
+An **aSP** is an _**a**SP **s**ingleFile **p**rogressiveWebApp_.
 
 It's a _big deal_, because this carefully built _PWA_ consists of a _**single file**_.
 
