@@ -75,5 +75,10 @@ ______
 
 ### Inline Service Worker:
 
- - *https://stackoverflow.com/questions/38085240/create-worker-from-data-uri*
+ - https://stackoverflow.com/questions/65138045/can-i-import-es-modules-from-other-script-type-module#answer-73955996
+ - https://stackoverflow.com/questions/43817297/inlining-ecmascript-modules-in-html#answer-43834063
+
+### Inline Web Worker
+
+ - *https://stackoverflow.com/questions/38085240/create-worker-from-data-uri#answer-77602420*
  
