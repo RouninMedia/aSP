@@ -72,12 +72,12 @@ ______
 
  - *https://stackoverflow.com/questions/46221528/inline-the-web-app-manifest*
 
-### Inline Service Worker:
+### Inline ESModules:
 
  - https://stackoverflow.com/questions/65138045/can-i-import-es-modules-from-other-script-type-module#answer-73955996
  - https://stackoverflow.com/questions/43817297/inlining-ecmascript-modules-in-html#answer-43834063
 
-### Inline Web Worker
+### Inline Web Worker / Service Worker:
 
  - *https://stackoverflow.com/questions/38085240/create-worker-from-data-uri#answer-77602420*
  
