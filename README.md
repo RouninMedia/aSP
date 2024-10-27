@@ -56,7 +56,7 @@ _**This means**, if we take a standard PWA with a single image (but no sound or 
  6. Web Manifest
  7. Service Worker
 
- This doesn't even cover PWAs which contain more than one image or which use ESModules (which usually necessitate one additional file for every imported `module`).
+ This doesn't even cover PWAs which contain more than one image or which use ESModules, where, usually, every imported `module` requires another additional external file.
  
  Instead, an **aSP** uses a combination of established web techniques like:
  
