@@ -81,5 +81,6 @@ ______
 
 ### Inline Web Worker / Service Worker:
 
+ - *https://stackoverflow.com/questions/5408406/web-workers-without-a-separate-javascript-file#answer-6454685*
  - *https://stackoverflow.com/questions/38085240/create-worker-from-data-uri#answer-77602420*
  
